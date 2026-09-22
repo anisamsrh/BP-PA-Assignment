@@ -11,7 +11,7 @@
 ----------------------------------------------
 ```
 Tugas Anda aadalah membuat kode program untuk menghasilkan output di atas. Anda harus mendesain cara untuk mencipatakan ID yang unik berdasarkaan input karakteristik dari pemilik ID. Kriteria desain ID :
-1. Minimal mengambil 3 input
+1. Minimal mengambil 3 input terminal
 2. Minimal sepanjang 10 karakter dengan kombinasi huruf-angka
 3. Hasil akhir ID harus sudah pernah melalui proses konkantenasi {clue : menggunakan sprintf()} dan minimal 2 operasi
 4. Tidak boleh menggunakan library selain stdio.h
