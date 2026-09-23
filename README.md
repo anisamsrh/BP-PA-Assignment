@@ -20,7 +20,7 @@ Tugas asistensi ada 2:
 - Jelaskan dalam sebuah file README.md (lampirkan screenshoot hasil dari running kodenya)
 
 ### Petunjuk Pengumpulan Mini Project
-Tugas di-upload di Github sebagai repositori publik. 
+Tugas di-upload di Github sebagai repositori publik. Post link dan nama di **Issues** repositori ini sesuai kelompok masing-masing
 
 ### Petunjuk Penulisan pada Laporan Akhir
 Untuk problem set, tulis jawabannya saja. \
