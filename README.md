@@ -47,7 +47,7 @@ There will be 2 assignments:
 - Explain the project in a README.md file (must include screenshoots of the running code)
 
 ### Directions for Mini Project Submission
-The project should be uploaded to Github as public repository
+The project should be uploaded to Github as public repository. Post name and your repository link on **Issues** section of this repository.
 
 ### Directions for Final Report Writing
 For problem set, write only the answer. \
