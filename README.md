@@ -17,10 +17,10 @@ Tugas asistensi ada 2:
 - Namun, hasil akhir tetap harus **unik dan berbeda** antara setiap anggota kelompok
 - Boleh pakai LLM/Chatbot, dengan catatan, harus **bisa menjelaskan** saat sesi asistensi
 - Ga perlu yang rumit atau overcomplicated
-- Jelaskan dalam sebuah file README.md (lampirkan screenshoot hasil dari running kodenya)
+- Jelaskan secara singkat solusi kamu dalam sebuah file README.md (lampirkan screenshoot hasil dari running kodenya)
 
 ### Petunjuk Pengumpulan Mini Project
-Tugas di-upload di Github sebagai repositori publik. Post link dan nama di **Issues** repositori ini sesuai kelompok masing-masing
+Tugas berupa kode dan file README di-upload di Github sebagai repositori publik. Post link dan nama di **Issues** repositori ini sesuai kelompok masing-masing
 
 ### Petunjuk Penulisan pada Laporan Akhir
 Untuk problem set, tulis jawabannya saja. \
@@ -44,10 +44,10 @@ There will be 2 assignments:
 - However, every final result should be **unique and different**
 - LLM/Chatbot is allowed on the condition that the creator **must be able to explain** his/her code at the assistance session
 - Sopisticated is not required
-- Explain the project in a README.md file (must include screenshoots of the running code)
+- Explain shortly about the project and your solution in a README.md file (must include screenshoots of the results)
 
 ### Directions for Mini Project Submission
-The project should be uploaded to Github as public repository. Post name and your repository link on **Issues** section of this repository.
+The project (code and README) should be uploaded to Github as public repository. Post name and your repository link on **Issues** section of this repository.
 
 ### Directions for Final Report Writing
 For problem set, write only the answer. \
